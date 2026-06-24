@@ -1,0 +1,6 @@
+# Install after requirements.txt — requires Bloomberg Terminal or licensed SDK access.
+# Uses Bloomberg's private PyPI index (not on public PyPI).
+#
+#   py -3 -m pip install -r requirements-bloomberg.txt --index-url https://blpapi.bloomberg.com/repository/releases/python/simple/
+#
+blpapi

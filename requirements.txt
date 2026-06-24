@@ -1,0 +1,4 @@
+pywin32>=306
+Pillow>=10.0.0
+xbbg>=0.7.0
+matplotlib>=3.8.0

@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Runtime state
+.state.json
+
+# Local config (machine-specific paths)
+config.json
